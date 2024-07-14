@@ -1,0 +1,36 @@
+body{
+    margin: 4em 6em 6em 4em;
+    /* background: ; */
+}
+
+.display-1{
+    color:black;
+}
+
+.row{
+    font-size: 3em;
+}
+.col-sm-6{
+    background-color: blueviolet;
+    border-radius: 0.1em;
+    color:white;
+    margin-left: 0.3em;
+    margin-right: 2em;
+}
+
+/* .col-sm-4{
+    
+    border-radius: 0.1em;
+    color:white;
+    margin-left: 0.3em;
+    margin-right: 1.5em;
+} */
+.row1{
+    background-color:white;
+    color:white;
+    /* border: black solid; */
+ 
+}
+.spinner-border{
+    color:blueviolet;
+}
