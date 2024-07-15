@@ -1,10 +1,13 @@
 body{
     margin: 4em 6em 6em 4em;
-    /* background: ; */
+    background:rgb(247, 243, 243) ;
 }
 
 .display-1{
-    color:black;
+    color:blueviolet;
+    text-decoration: solid;
+    margin-left: 0.1em;
+
 }
 
 .row{
@@ -19,7 +22,13 @@ body{
     text-align: center;
     font-size: large;
 }
-
+.mujer{
+    align-items: flex-end;
+    margin:1em 1em 1em 1em;
+    position:sticky;
+    
+    width:80%;
+}
 /* .col-sm-4{
     
     border-radius: 0.1em;
@@ -27,12 +36,12 @@ body{
     margin-left: 0.3em;
     margin-right: 1.5em;
 } */
-.row1{
+/* .row1{
     background-color:white;
     color:white;
-    /* border: black solid; */
+    border: black solid;
  
-}
+} */
 .spinner-border{
     color:blueviolet;
 }
